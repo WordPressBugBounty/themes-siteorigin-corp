@@ -1023,6 +1023,10 @@ msgstr ""
 msgid "You must be logged in to checkout."
 msgstr ""
 
+#: woocommerce/checkout/form-checkout.php:32
+msgid "Checkout"
+msgstr ""
+
 #: woocommerce/checkout/form-checkout.php:55
 msgid "Your order"
 msgstr ""
