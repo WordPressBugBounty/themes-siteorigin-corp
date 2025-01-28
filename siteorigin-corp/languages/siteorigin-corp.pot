@@ -1,4 +1,4 @@
-# Copyright (C) 2024 siteorigin-corp
+# Copyright (C) 2025 siteorigin-corp
 # This file is distributed under the same license as the siteorigin-corp package.
 msgid ""
 msgstr ""
@@ -1031,6 +1031,6 @@ msgstr ""
 msgid "Your order"
 msgstr ""
 
-#: woocommerce/single-product/up-sells.php:20
+#: woocommerce/single-product/up-sells.php:19
 msgid "You may also like"
 msgstr ""
