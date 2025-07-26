@@ -728,7 +728,7 @@ msgstr ""
 msgid "Display the WooCommerce mini cart in the header menu."
 msgstr ""
 
-#: inc/settings.php:506, woocommerce/template-tags.php:175
+#: inc/settings.php:506, woocommerce/template-tags.php:183
 msgid "Quick View"
 msgstr ""
 
@@ -955,11 +955,11 @@ msgstr ""
 msgid "Close Quick View modal window"
 msgstr ""
 
-#: woocommerce/template-tags.php:51
+#: woocommerce/template-tags.php:59
 msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
 msgstr ""
 
-#: woocommerce/template-tags.php:54
+#: woocommerce/template-tags.php:62
 msgid "Dismiss"
 msgstr ""
 
